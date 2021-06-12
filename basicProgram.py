@@ -12,4 +12,4 @@ def display_name(user_name):
 #Greet user function call
 greeting_message()
 #Display function call after greeting user
-display_name()
+display_name(user_name)
